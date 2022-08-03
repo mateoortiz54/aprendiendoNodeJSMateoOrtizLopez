@@ -1,0 +1,28 @@
+{
+  "name": "aprendiendonodejsmateoortizlopez",
+  "version": "1.0.0",
+  "description": "\"Aprendiendo NodeJS\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateoortiz54/aprendiendoNodeJSMateoOrtizLopez.git"
+  },
+  "author": "\"Mateo\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateoortiz54/aprendiendoNodeJSMateoOrtizLopez/issues"
+  },
+  "homepage": "https://github.com/mateoortiz54/aprendiendoNodeJSMateoOrtizLopez#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "mongodb": "^4.8.1",
+    "mongose": "^0.0.2-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
